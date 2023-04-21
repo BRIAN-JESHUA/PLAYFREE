@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/antmanquantiumania.png",
+http://playfree.zukostore.workers.dev/?file=/playfree/NUEVO/AntManandtheWaspQuantumania.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/avatarelcaminodelagua.png",
+http://playfree.zukostore.workers.dev/?file=/playfree/NUEVO/Avatar_El_camino_del_agua.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/creed3.png",
+http://playfree.zukostore.workers.dev/?file=/playfree/NUEVO/Creed3.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/desconectada.png",
+http://playfree.zukostore.workers.dev/?file=/playfree/NUEVO/Desconectada.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/gatoconbotas.png",
+http://playfree.zukostore.workers.dev/?file=/playfree/NUEVO/Gato.con.Botas.El.último.deseo.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/jung_e.png",
+http://playfree.zukostore.workers.dev/?file=/playfree/NUEVO/JUNG_E.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/thorloveandthunder.png",
+http://playfree.zukostore.workers.dev/?file=/playfree/NUEVO/Thor_Amor_y_Trueno.mkv
