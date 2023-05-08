@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo=http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/65ALBORDEDELAEXTINCION.jpg",65 Al Borde De La Extincion
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/65ALBORDEDELAEXTINCION.jpg",65 Al Borde De La Extincion
 https://playfree2.zukostore.workers.dev/?file=/65ALBORDEDELAEXTINCION.mkv
 #EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/AFTEREVERHAPPY.jpg",After Ever Happy
 https://playfree2.zukostore.workers.dev/?file=/AFTEREVERHAPPY.mkv
