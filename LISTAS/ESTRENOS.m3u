@@ -1,6 +1,18 @@
 #EXTM3U
-
-
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/BARBIE.jpg",Barbie
+http://playfree2.zukostore.workers.dev/?file=/BARBIE.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/ELIMPLACABLE.png",El Implacable
+http://playfree2.zukostore.workers.dev/?file=/ELIMPLACABLE.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/LOSBASTARDOS.png",Los Bastardos
+http://playfree2.zukostore.workers.dev/?file=/LOSBASTARDOS.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/MYHOUSE.jpg",My House
+http://playfree2.zukostore.workers.dev/?file=/MYHOUSE.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/RAPIDOYFURIOSOX.jpeg",Rápidos y furiosos X
+http://playfree2.zukostore.workers.dev/?file=/RAPIDOYFURIOSOX.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/STVINCENT.png",St.Vincent
+http://playfree2.zukostore.workers.dev/?file=/STVINCENT.mkv
+#EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/TRANSFORMERSELDESPERTARDELASBESTIAS.jpg",Transformers El Despertar De Las Bestias
+http://playfree2.zukostore.workers.dev/?file=/TRANSFORMERSELDESPERTARDELASBESTIAS.mkv
 
 
 
