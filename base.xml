@@ -1,0 +1,21 @@
+<items>
+    <item>
+        <title>007 Spectre</title>
+        <category>Accion</category>
+        <year>2022</year>
+        <description>Esta es la descripción de la película 1.</description>
+        <image>http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/ACCION/007spectre.jpg</image>
+        <video>http://playfree.zukostore.workers.dev/?file=/playfree/accion/007SPECTRE.mkv</video>
+        <rating>4</rating>
+    </item>
+    <item>
+        <title>Película 2</title>
+        <category>Acción</category>
+        <year>2019</year>
+        <description>Esta es la descripción de la película 2.</description>
+        <image>https://ejemplo.com/imagen2.jpg</image>
+        <video>https://ejemplo.com/video2.mp4</video>
+        <rating>3.5</rating>
+    </item>
+    <!-- Puedes agregar más elementos item según sea necesario -->
+</items>
