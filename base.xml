@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Película 1",
+        "category": "Acción",
+        "year": 2020,
+        "description": "Una emocionante película de acción.",
+        "image": "https://example.com/images/movie1.jpg",
+        "video": "https://example.com/videos/movie1.mp4",
+        "rating": 4.5
+    },
+    {
+        "title": "Película 2",
+        "category": "Comedia",
+        "year": 2018,
+        "description": "Una divertida película de comedia.",
+        "image": "https://example.com/images/movie2.jpg",
+        "video": "https://example.com/videos/movie2.mp4",
+        "rating": 3.8
+    },
+    {
+        "title": "Película 3",
+        "category": "Drama",
+        "year": 2019,
+        "description": "Un conmovedor drama sobre la vida.",
+        "image": "https://example.com/images/movie3.jpg",
+        "video": "https://example.com/videos/movie3.mp4",
+        "rating": 4.2
+    }
+]
