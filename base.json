@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "007 Spectre",
+    "imagen": "http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/ACCION/007spectre.jpg",
+    "descripcion": "Descripción de la película 1",
+    "categoria": "Acción",
+    "fecha_lanzamiento": "2023-10-15",
+    "fecha_subida": "2024-02-03",
+    "notas": "Buenas críticas",
+    "link": "http://playfree.zukostore.workers.dev/?file=/playfree/accion/007SPECTRE.mkv"
+  },
+  {
+    "titulo": "Pelicula 2",
+    "imagen": "ruta/a/imagen2.jpg",
+    "descripcion": "Descripción de la película 2",
+    "categoria": "Comedia",
+    "fecha_lanzamiento": "2024-01-20",
+    "fecha_subida": "2024-02-05",
+    "notas": "Divertida",
+    "link": "https://url_del_video_de_la_pelicula_2"
+  },
+  {
+    "titulo": "Pelicula 3",
+    "imagen": "ruta/a/imagen3.jpg",
+    "descripcion": "Descripción de la película 3",
+    "categoria": "Drama",
+    "fecha_lanzamiento": "2024-02-10",
+    "fecha_subida": "2024-02-15",
+    "notas": "Emotiva",
+    "link": "https://url_del_video_de_la_pelicula_3"
+  }
+]
