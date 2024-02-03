@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,description="canal informativo" tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/ACCION/007spectre.jpg",007 Spectre
+#EXTINF:-1, description="canal informativo" tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/ACCION/007spectre.jpg",007 Spectre
 http://playfree.zukostore.workers.dev/?file=/playfree/accion/007SPECTRE.mkv
 #EXTINF:-1,tvg-logo="http://raw.githubusercontent.com/BRIAN-JESHUA/PLAYFREE/main/IMAGENES/NUEVO/65ALBORDEDELAEXTINCION.jpg",65 Al Borde De La Extincion
 https://playfree2.zukostore.workers.dev/?file=/playfree/accion/65ALBORDEDELAEXTINCION.mkv
